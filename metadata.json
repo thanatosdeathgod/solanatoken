@@ -1,6 +1,11 @@
 {
-    "name": "John Pork Token",
-    "symbol": "JP",
-    "description": "Why did John Pork Coin become a stand-up comedian? Because it always knows how to crack up the blockchain.",
-    "image": "https://raw.githubusercontent.com/azzraaeel/solanatoken/main/logo.jpeg"
+  "name": "John Pork Token",
+  "symbol": "JP",
+  "description": "Why did John Pork Coin become a stand-up comedian? Because it always knows how to crack up the blockchain.",
+  "image": "https://raw.githubusercontent.com/azzraaeel/solanatoken/main/logo.jpeg",
+  "links": {
+    "website": "https://johnpork.com",
+    "twitter": "https://twitter.com/johnpork",
+    "telegram": "https://t.me/johnpork"
   }
+}
